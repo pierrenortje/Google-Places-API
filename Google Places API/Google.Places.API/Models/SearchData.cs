@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Google.Places.API.Models
 {
-    public class NearbySearchData
+    public class SearchData
     {
         /// <summary>
         /// Contains any required attributions. This field will always be present, but may be empty.

@@ -46,10 +46,14 @@
   <ItemGroup>
     <Compile Include="ApiRequest.cs" />
     <Compile Include="Interfaces\IPlaceRequest.cs" />
+    <Compile Include="Models\AddressComponent.cs" />
     <Compile Include="Models\Geometry.cs" />
     <Compile Include="Models\Language.cs" />
     <Compile Include="Models\Location.cs" />
-    <Compile Include="Models\NearbySearchData.cs" />
+    <Compile Include="Models\PlaceDetails.cs" />
+    <Compile Include="Models\PlaceDetailsData.cs" />
+    <Compile Include="Models\Review.cs" />
+    <Compile Include="Models\SearchData.cs" />
     <Compile Include="Models\OpeningHours.cs" />
     <Compile Include="Models\Period.cs" />
     <Compile Include="Models\Photo.cs" />
